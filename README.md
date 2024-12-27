@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction-Model
-I have created a heart disease prediction model where I have used SVM, Random Forest classification algorithm, knn and logistic regression. Upon evaluation, the Random Forest algorithm outperformed others, showcasing the highest accuracy in identifying individuals at risk.
+This project aims to develop a predictive model for heart disease using machine learning techniques. The project utilizes a dataset containing patient information such as age, sex, chest pain type, blood pressure, cholesterol levels, and other relevant medical measurements. The primary goal is to accurately predict the presence or absence of heart disease in patients based on these input features.

@@ -5,19 +5,44 @@ This project aims to develop a predictive model for heart disease using machine 
 Key Steps:
 
 Explore Data: Analyze data for distributions, correlations, and missing values.
+
+
 Build Models: Implement and evaluate SVM, Random Forest, Logistic Regression, and KNN models.
+
+
 Compare Models: Determine the best model using accuracy metrics.
+
+
 Predict: Create a user-friendly interface to predict heart disease risk.
+
+
 Approach:
 
 Load and preprocess the dataset.
+
+
 Perform EDA to gain insights.
+
+
 Train models using training and test splits.
+
+
 Evaluate models using metrics.
+
+
 Select best model.
+
+
 Develop user interface.
+
+
 Outcomes:
 
+
 Trained heart disease prediction model.
+
+
 User interface for prediction.
+
+
 Model comparison results.

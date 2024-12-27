@@ -46,3 +46,14 @@ User interface for prediction.
 
 
 Model comparison results.
+
+
+Tools:
+
+Python: Programming language.
+pandas: Data analysis.
+numpy: Numerical operations.
+matplotlib & seaborn: Data visualization.
+scikit-learn (sklearn): Machine learning algorithms.
+Google Colab: Cloud-based platform.
+Google Drive: Data storage.
